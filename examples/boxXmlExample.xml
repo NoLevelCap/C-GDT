@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<fixture>
+    <vertice>
+        <x>32</x>
+        <y>0</y>
+    </vertice>
+    <vertice>
+        <x>0</x>
+        <y>0</y>
+    </vertice>
+    <vertice>
+        <x>0</x>
+        <y>32</y>
+    </vertice>
+    <vertice>
+        <x>32</x>
+        <y>32</y>
+    </vertice>
+</fixture>
